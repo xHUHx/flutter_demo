@@ -41,7 +41,7 @@ class HomeUi extends StatelessWidget {
               ),
             ),
             Text(
-              'Created by Sirikanya IoT-SAU 2026',
+              'Created by Thammachot IoT-SAU 2026',
               style: GoogleFonts.itim(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,

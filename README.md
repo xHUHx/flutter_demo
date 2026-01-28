@@ -1,16 +1,9 @@
-# flutter_demo
+## Moblie Application with Flutter&Dart
 
-A new Flutter project.
+## UI Only for HomeUI, SigninUi, SignupUi
 
-## Getting Started
+<img width="1470" height="1522" alt="localhost_51563_ (1)" src="https://github.com/user-attachments/assets/7330b98e-1351-4d29-aacd-f010b86298e7" />
 
-This project is a starting point for a Flutter application.
+<img width="1470" height="1522" alt="localhost_51563_ (2)" src="https://github.com/user-attachments/assets/4b71cab4-49be-48d5-af9d-8de4dd4a5b77" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1470" height="1522" alt="localhost_51563_ (3)" src="https://github.com/user-attachments/assets/5d1c33a4-1e19-4363-b008-c4156ea6f419" />
